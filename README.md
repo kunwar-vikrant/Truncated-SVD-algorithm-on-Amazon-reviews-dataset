@@ -1,0 +1,2 @@
+# Truncated-SVD-algorithm-on-Amazon-reviews-dataset
+This is a notebook which demonstrates results of Truncated SVD algorithm on Amazon reviews data set  Algorithm on the dataset which consists of reviews of fine foods from amazon. The data span a period of more than 10 years, including all ~500,000 reviews up to October 2012. Reviews include product and user information, ratings, and a plain text review.
